@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/java/nlp-lang-1.7.3.jar"/>
+	<classpathentry kind="lib" path="F:/工作/tika-app-1.18.jar"/>
+	<classpathentry kind="lib" path="F:/工作/ansj_seg-5.1.0.jar"/>
+	<classpathentry kind="lib" path="/WordWeightTrain/lib/nlp-lang-0.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/http/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/http/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/http/fluent-hc-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/http/httpclient-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/http/httpclient-cache-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/http/httpclient-win-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/http/httpcore-4.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/http/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/http/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace/http/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
